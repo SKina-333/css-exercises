@@ -20,6 +20,5 @@ button {
 }
 
 button:hover {
-  padding: 32px 48px;
-  font-size: 32px;
+  transform: scale(1.2);
 }
