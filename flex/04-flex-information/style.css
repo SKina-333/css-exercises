@@ -2,10 +2,33 @@ body {
   font-family: 'Courier New', Courier, monospace;
 }
 
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+}
+
+.info {
+  display: flex;
+  justify-content: space-evenly;
+}
+
 img {
   width: 100px;
   height: 100px;
 }
+
+.one, .two, .three, .four {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  flex-basis: 200px;
+  text-align: center;
+  
+}
+
 
 .title {
   font-size: 36px;
