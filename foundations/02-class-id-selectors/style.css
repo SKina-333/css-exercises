@@ -1,0 +1,21 @@
+p {
+    background-color: rgb(255, 58, 58);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#three {
+    font-size: 30px;
+}
+
+.even {
+    font-weight: 700;
+    font-size: 25px;
+}
+
+#two {
+    color: blue;
+}
+
+#four {
+    background-color: lightgreen;
+}
